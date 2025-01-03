@@ -21,7 +21,7 @@ bot.addCommand(
     })
     const [date, time] = getDate()
     let CMD_HELP = `╭────────────────╮
-						ʟᴇᴠᴀɴᴛᴇʀ
+						Trøy's Bøt
 ╰────────────────╯
 
 ╭────────────────
@@ -90,7 +90,7 @@ bot.addCommand(
       }
     })
     const [date, time] = getDate()
-    let msg = `\`\`\`╭═══ LEVANTER ═══⊷
+    let msg = `\`\`\`╭═══ Trøy's Bøt ═══⊷
 ┃❃╭──────────────
 ┃❃│ Prefix : ${ctx.PREFIX}
 ┃❃│ User : ${message.pushName}
